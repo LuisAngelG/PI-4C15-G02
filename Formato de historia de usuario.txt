@@ -1,0 +1,2 @@
+Formato de historia de usuario:
+Como cliente final yo debería poder contar con una fuente de información sobre la cultura peruana verídica a fin de confiar fielmente en la aplicación brindada
