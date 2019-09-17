@@ -1,0 +1,17 @@
+/chapters/*.aux
+/chapters/.DS_Store
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*.log
+*.aux
+*.lot
+*.lof
+*.bcf
+*.xml
+*.gz
+*.toc
+*.bib
+*.bbl
